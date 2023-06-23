@@ -44,7 +44,7 @@ export default function Home() {
         <br></br>
 
         <video controls={true} style={{ width: "400px", height: "400px" }}>
-          <source src="/vid/video.mp4" type="video/mp4" />
+          <source src="video.mp4" type="video/mp4" />
         </video>
       </div>
     </main>

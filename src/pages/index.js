@@ -41,8 +41,8 @@ export default function Home() {
           src={image3}
           className="w-100 shadow-1-strong rounded mb-4 "
           alt="mountain"
-          width={500}
-          height={500}
+          width={300}
+          height={300}
         />
         <br></br>
 

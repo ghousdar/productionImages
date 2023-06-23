@@ -4,7 +4,7 @@ import { Inter } from 'next/font/google'
 import styles from '@/styles/Home.module.css'
 import mountains from "../assets/images/mountain1.webp"
 import image2 from "../assets/images/image2.jpg"
-import image3 from "../assets/images/image3.png"
+import image_3 from "../assets/images/image-3.png"
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
@@ -31,14 +31,12 @@ export default function Home() {
           src={image2}
           className="w-100 shadow-1-strong rounded mb-4 "
           alt="mountain"
-          
-          width={300}
-          height={150}
+       
         />
 
         <Image
           style={{ padding: "4px" }}
-          src={image3}
+          src={image_3}
           className="w-100 shadow-1-strong rounded mb-4 "
           alt="mountain"
           width={300}

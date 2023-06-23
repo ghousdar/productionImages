@@ -22,8 +22,7 @@ export default function Home() {
           className="w-100 shadow-1-strong rounded mb-4 "
           alt="mountain"
           priority
-          width={500}
-          height={500}
+       
         />
 
         <Image
